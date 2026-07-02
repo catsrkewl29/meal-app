@@ -10,3 +10,7 @@ window.PEOPLE = ["Grace", "Tim"];
 
 // How many mutual matches you're aiming for each week.
 window.TARGET_MATCHES = 5;
+
+// How many recipes each person can like before the deck stops.
+// Keeps picks meaningful — you choose favorites, not everything.
+window.LIKE_BUDGET = 10;

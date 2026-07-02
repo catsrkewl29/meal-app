@@ -12,6 +12,7 @@ const CFG = {
   anon: window.SUPABASE_ANON,
   people: window.PEOPLE || ["Grace", "Partner"],
   target: window.TARGET_MATCHES || 5,
+  budget: window.LIKE_BUDGET || 10,
 };
 const LIVE = CFG.url && !CFG.url.includes("PASTE_") &&
              CFG.anon && !CFG.anon.includes("PASTE_");
@@ -118,6 +119,7 @@ function matchesList() {
   return RECIPES.filter(r => mine.has(r.id) && theirs.has(r.id));
 }
 function myLikeCount() { return picks.filter(p => p.voter === me).length; }
+function likesLeft() { return Math.max(0, CFG.budget - myLikeCount()); }
 function partnerLikeCount() {
   const partner = CFG.people.find(n => n !== me) || "Partner";
   return picks.filter(p => p.voter === partner).length;
@@ -161,7 +163,7 @@ function render() {
     </div>
     ${LIVE ? "" : `<div class="banner">Demo mode — add your Supabase keys to sync with a real partner</div>`}
     <div class="progress">
-      <div class="pill"><b>${myLikeCount()}</b>you liked</div>
+      <div class="pill"><b>${likesLeft()}</b>likes left</div>
       <div class="pill"><b>${partnerLikeCount()}</b>they liked</div>
       <div class="pill match"><b>${matches.length}</b>matches</div>
     </div>
@@ -182,6 +184,20 @@ function render() {
 
 function renderDeck() {
   const body = document.getElementById("body");
+  // Out of likes → picking phase is over for you.
+  if (likesLeft() === 0) {
+    const waiting = partnerLikeCount() < CFG.budget;
+    body.innerHTML = `<div class="empty">
+      <i class="ti ti-circle-check" style="font-size:44px;color:var(--match)"></i>
+      <p style="font-size:16px;color:var(--ink);margin:14px 0 6px">That's your ${CFG.budget} picks!</p>
+      <p>${waiting
+        ? `${CFG.people.find(n=>n!==me)||"Your partner"} is still choosing. Your matches update live as they like recipes.`
+        : `You're both done — go lock in your meals.`}</p>
+      <button class="bigbtn" style="max-width:260px;margin-top:18px" id="toMatches">See your matches</button>
+    </div>`;
+    document.getElementById("toMatches").onclick = () => { tab = "matches"; render(); };
+    return;
+  }
   const deck = remainingDeck();
   if (deck.length === 0) {
     body.innerHTML = `<div class="empty"><i class="ti ti-check" style="font-size:40px;color:var(--match)"></i>
@@ -224,6 +240,7 @@ function renderDeck() {
     await like(r.id);
     const m = matchesList();
     if (m.some(x => x.id === r.id)) toast(`It's a match! ❤️`);
+    else if (likesLeft() === 0) toast(`That's your ${CFG.budget} — here are your matches`);
     render();
   };
 }
