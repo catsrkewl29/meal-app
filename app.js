@@ -182,6 +182,57 @@ function render() {
   else renderGrocery();
 }
 
+// Full recipe card markup, shared by the swipe deck and the detail view.
+function recipeCardHTML(r) {
+  return `
+    <div class="card">
+      <div class="head">
+        <span class="cat">${r.category}</span>
+        <h2>${r.title}</h2>
+        <p class="sub">${r.subtitle || ""}</p>
+      </div>
+      <div class="meta">
+        <span class="tag"><i class="ti ti-clock"></i> ${r.time}</span>
+        <span class="tag">${r.difficulty}</span>
+        ${r.spice && r.spice!=="Not Spicy" ? `<span class="tag spicy"><i class="ti ti-flame"></i> ${r.spice}</span>` : ""}
+        ${r.allergens.length ? `<span class="tag">${r.allergens.join(", ")}</span>` : ""}
+      </div>
+      <div class="ings">
+        <h3>Ingredients</h3>
+        <ul>${r.ingredients.map(i => `
+          <li><span>${i.specialty?'<span class="star">★</span> ':""}${i.name}</span>
+              <span class="q">${i.qty}</span></li>`).join("")}</ul>
+      </div>
+    </div>`;
+}
+
+// Slide-up detail view for any recipe (from Matches or the grocery list).
+function openRecipe(id) {
+  const r = RECIPES.find(x => x.id === id);
+  if (!r) return;
+  const isLocked = locked.includes(r.id);
+  const el = document.createElement("div");
+  el.className = "detail";
+  el.innerHTML = `
+    <div class="detail-top">
+      <button id="detailClose" aria-label="Close"><i class="ti ti-arrow-left"></i></button>
+      <strong>Recipe</strong>
+    </div>
+    <div class="detail-body">
+      ${recipeCardHTML(r)}
+      <button class="bigbtn ${isLocked?'alt':''}" style="margin-top:16px" id="detailLock">
+        ${isLocked ? "Remove from this week" : "Lock in for the week"}
+      </button>
+    </div>`;
+  document.body.appendChild(el);
+  const close = () => el.remove();
+  el.querySelector("#detailClose").onclick = close;
+  el.querySelector("#detailLock").onclick = () => {
+    isLocked ? unlockMeal(r.id) : lockMeal(r.id);
+    close();
+  };
+}
+
 function renderDeck() {
   const body = document.getElementById("body");
   // Out of likes → picking phase is over for you.
@@ -206,27 +257,7 @@ function renderDeck() {
   }
   const r = deck[0];
   body.innerHTML = `
-    <div class="deck">
-      <div class="card">
-        <div class="head">
-          <span class="cat">${r.category}</span>
-          <h2>${r.title}</h2>
-          <p class="sub">${r.subtitle || ""}</p>
-        </div>
-        <div class="meta">
-          <span class="tag"><i class="ti ti-clock"></i> ${r.time}</span>
-          <span class="tag">${r.difficulty}</span>
-          ${r.spice && r.spice!=="Not Spicy" ? `<span class="tag spicy"><i class="ti ti-flame"></i> ${r.spice}</span>` : ""}
-          ${r.allergens.length ? `<span class="tag">${r.allergens.join(", ")}</span>` : ""}
-        </div>
-        <div class="ings">
-          <h3>Ingredients</h3>
-          <ul>${r.ingredients.map(i => `
-            <li><span>${i.specialty?'<span class="star">★</span> ':""}${i.name}</span>
-                <span class="q">${i.qty}</span></li>`).join("")}</ul>
-        </div>
-      </div>
-    </div>
+    <div class="deck">${recipeCardHTML(r)}</div>
     <div class="actions">
       <button class="act skip" id="skipBtn"><i class="ti ti-x"></i> Skip</button>
       <button class="act like" id="likeBtn"><i class="ti ti-heart"></i> Like</button>
@@ -263,7 +294,10 @@ function renderMatches() {
       const isLocked = locked.includes(r.id);
       return `<div class="matchcard${isLocked?"":" pending"}">
         <div style="display:flex;justify-content:space-between;align-items:center;gap:10px">
-          <div><h4>${r.title}</h4><div class="sub">${r.category} · ${r.time}</div></div>
+          <div data-open="${r.id}" style="flex:1;cursor:pointer">
+            <h4>${r.title} <i class="ti ti-chevron-right" style="font-size:14px;color:var(--muted);vertical-align:-1px"></i></h4>
+            <div class="sub">${r.category} · ${r.time} · tap to view recipe</div>
+          </div>
           <button class="bigbtn ${isLocked?'ghost':'alt'}" style="width:auto;margin:0;padding:10px 16px;font-size:14px"
             data-lock="${r.id}">${isLocked?"Locked ✓":"Lock in"}</button>
         </div></div>`;
@@ -274,6 +308,8 @@ function renderMatches() {
       const id = +b.dataset.lock;
       locked.includes(id) ? unlockMeal(id) : lockMeal(id);
     });
+  body.querySelectorAll("[data-open]").forEach(el =>
+    el.onclick = () => openRecipe(+el.dataset.open));
 }
 
 // aisle grouping for the grocery list
@@ -334,10 +370,16 @@ function renderGrocery() {
         }).join("")}
       </div>`).join("")}
     <div style="margin-top:20px;padding-top:16px;border-top:1px solid var(--line)">
-      <p style="font-size:12px;color:var(--muted);text-align:center;margin:0 0 8px">This week's meals</p>
-      ${lockedRecipes.map(r => `<div style="font-size:14px;text-align:center;padding:3px">${r.title}</div>`).join("")}
+      <p style="font-size:12px;color:var(--muted);text-align:center;margin:0 0 10px">This week's meals · tap to view recipe</p>
+      ${lockedRecipes.map(r => `
+        <div class="mealrow" data-open="${r.id}">
+          <span>${r.title}</span>
+          <i class="ti ti-chevron-right" style="color:var(--muted)"></i>
+        </div>`).join("")}
     </div>
   </div>`;
+  body.querySelectorAll("[data-open]").forEach(el =>
+    el.onclick = () => openRecipe(+el.dataset.open));
 
   body.querySelectorAll("[data-item]").forEach(el =>
     el.onclick = () => {
