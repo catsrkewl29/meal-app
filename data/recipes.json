@@ -1,0 +1,8013 @@
+[
+  {
+    "id": 1,
+    "title": "Beef and Caramelized Onion Risotto",
+    "variant": false,
+    "subtitle": "with blue cheese and chives",
+    "time": "40-50 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Steak Strips",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Arborio Rice",
+        "qty": "0.75 cup",
+        "specialty": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "4 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Roasted Garlic & Herb Butter",
+        "qty": "0.75 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Baby Arugula",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Balsamic Vinaigrette",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Blue Cheese Crumbles",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chive Sprigs",
+        "qty": "6",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Arborio Rice",
+      "Chicken Broth Concentrate",
+      "Roasted Garlic & Herb Butter",
+      "Chive Sprigs"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 2,
+    "title": "Zesty Poblano Chicken Chowder",
+    "variant": false,
+    "subtitle": "with tortilla strips",
+    "time": "20-30 min",
+    "difficulty": "Intermediate",
+    "spice": "Medium",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Diced Boneless Skinless Chicken Breasts",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Poblano Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Corn",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Mozzarella",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Tortilla Strips",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Chile and Cumin Rub",
+        "qty": "1 Tbsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Chicken Broth Concentrate",
+      "Chile and Cumin Rub"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 3,
+    "title": "Mahi-Mahi with Buttery Herb Cream",
+    "variant": false,
+    "subtitle": "and roasted broccolini",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Spicy",
+    "allergens": [
+      "Fish",
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Mahi-Mahi Fillets",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Broccolini",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Tuscan Herb Butter",
+        "qty": "0.8 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Crispy Fried Onions",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mirepoix Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Italian Seasoning Blend",
+        "qty": "2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Tuscan Herb Butter",
+      "Mirepoix Broth Concentrate"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 4,
+    "title": "Bulgogi-Style Beef Sando",
+    "variant": false,
+    "subtitle": "with red cabbage and sesame fries",
+    "time": "45-55 min",
+    "difficulty": "Intermediate",
+    "spice": "Medium",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat",
+      "Sesame",
+      "Soy"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Steak Strips",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brioche Buns",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Teriyaki Glaze",
+        "qty": "3 fl. oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Red Cabbage",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Seasoned Rice Vinegar",
+        "qty": "1/2 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Lightly Toasted Sesame Oil",
+        "qty": "1/2 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Gochujang Red Pepper Paste",
+        "qty": "1 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Multicolor Sesame Seeds",
+        "qty": "2 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Seasoned Rice Vinegar",
+      "Lightly Toasted Sesame Oil",
+      "Gochujang Red Pepper Paste",
+      "Multicolor Sesame Seeds"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 5,
+    "title": "Dijon Chicken Atop Fresh Salad",
+    "variant": false,
+    "subtitle": "with candied walnuts",
+    "time": "15-20 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Tree Nuts",
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Romaine Heart",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Grape Tomatoes",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Red Cabbage",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Honey Dijon Mustard Dressing",
+        "qty": "1.5 fl. oz.",
+        "specialty": false
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1/2 cup",
+        "specialty": false
+      },
+      {
+        "name": "Candied Walnuts",
+        "qty": "0.75 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.44 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Dijon Mustard",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Pepper",
+        "qty": "1 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Candied Walnuts"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 6,
+    "title": "Cheesy Spinach-Stuffed Chicken",
+    "variant": false,
+    "subtitle": "with roasted broccoli",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Broccoli Florets",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Baby Spinach",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Cheddar Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon Garlic Butter",
+        "qty": "0.8 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Crispy Fried Onions",
+        "qty": "1/2 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Ranch Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Pepper",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Lemon Garlic Butter",
+      "Crispy Fried Onions"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 7,
+    "title": "Cowboy Beef Tostadas",
+    "variant": false,
+    "subtitle": "with charred corn and cilantro",
+    "time": "25-35 min",
+    "difficulty": "Intermediate",
+    "spice": "Medium",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Steak Strips",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Corn",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Poblano Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "qty": "4",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Nacho/Taco Cheese Blend",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Light Sour Cream",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Taco Seasoning",
+        "qty": "2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon Juice",
+        "qty": "0.14 oz.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Beef"
+  },
+  {
+    "id": 8,
+    "title": "Herbes de Provence Chicken",
+    "variant": false,
+    "subtitle": "with glazed carrots and pecans",
+    "time": "40-50 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Tree Nuts (Pecans)",
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Carrot",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Roasted Pecan Pieces",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brown Sugar",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Demi-Glace Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Chive Sprigs",
+        "qty": "6",
+        "specialty": true
+      },
+      {
+        "name": "Savory Seasoning",
+        "qty": "2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Herbes de Provence",
+        "qty": "1 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Chicken Demi-Glace Concentrate",
+      "Chive Sprigs",
+      "Herbes de Provence"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 9,
+    "title": "Chicken Marsala en Croûte",
+    "variant": false,
+    "subtitle": "with Brussels sprouts",
+    "time": "40-50 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Brussels Sprouts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cremini Mushrooms",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Puff Pastry Dough Square",
+        "qty": "2 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Marsala Wine",
+        "qty": "1 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "AP Flour",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Smoked Maple Seasoning",
+        "qty": "1 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Puff Pastry Dough Square",
+      "Marsala Wine",
+      "Chicken Broth Concentrate",
+      "Smoked Maple Seasoning"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 10,
+    "title": "Sweet Chili Salmon with Spicy Mango Salsa",
+    "variant": false,
+    "subtitle": "and jalapeños",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Spicy",
+    "allergens": [
+      "Fish (Salmon)"
+    ],
+    "ingredients": [
+      {
+        "name": "Salmon",
+        "qty": "9 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Long Grain White Rice",
+        "qty": "5.47 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Mangoes",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Persian Cucumber",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Sweet Chili Sauce",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Jalapeno Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Fiesta Seasoning",
+        "qty": "1 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Lemon Juice",
+        "qty": "0.14 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Fiesta Seasoning"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 11,
+    "title": "Teriyaki Steak Pad Thai",
+    "variant": false,
+    "subtitle": "with peanuts",
+    "time": "20-30 min",
+    "difficulty": "Intermediate",
+    "spice": "Mild",
+    "allergens": [
+      "Wheat",
+      "Peanuts",
+      "Soy"
+    ],
+    "ingredients": [
+      {
+        "name": "Steak Strips",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cooked Spaghetti",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Matchstick Carrots",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Teriyaki Glaze",
+        "qty": "2 fl. oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Roasted & Salted Peanuts",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Sambal",
+        "qty": "3 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sugar",
+        "qty": "1 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Sambal"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 12,
+    "title": "Spinach and Artichoke Cream Sirloin",
+    "variant": false,
+    "subtitle": "with Brussels sprouts and Parmesan potatoes",
+    "time": "35-45 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sirloin Steaks",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brussels Sprouts",
+        "qty": "6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Baby Spinach",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Artichoke Hearts",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Grated Parmesan Cheese",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Potato Spice Seasoning",
+        "qty": "1/2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Steak Seasoning",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon N Herb Seasoning",
+        "qty": "1/2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Artichoke Hearts",
+      "Potato Spice Seasoning",
+      "Lemon N Herb Seasoning"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 13,
+    "title": "Florentine Shrimp Orzo",
+    "variant": false,
+    "subtitle": "with tomatoes and feta",
+    "time": "20-30 min",
+    "difficulty": "Intermediate",
+    "spice": "Spicy",
+    "allergens": [
+      "Shellfish",
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Roma Tomato",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Shrimp",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Orzo Pasta",
+        "qty": "6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Baby Spinach",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Creme Fraiche",
+        "qty": "2 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Tuscan Herb Butter",
+        "qty": "0.8 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Crumbled Feta Cheese",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Creme Fraiche",
+      "Tuscan Herb Butter"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 14,
+    "title": "Sweet Heat Steak Rice Bowl",
+    "variant": false,
+    "subtitle": "with pineapple salsa",
+    "time": "25-35 min",
+    "difficulty": "Intermediate",
+    "spice": "Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Steak Strips",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Long Grain White Rice",
+        "qty": "5.47 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Corn",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Pineapple Chunks",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Jalapeno Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Chipotle Butter",
+        "qty": "0.8 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Adobo Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Chile and Cumin Rub",
+        "qty": "1 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Chipotle Butter",
+      "Chile and Cumin Rub"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 15,
+    "title": "Bistro Campagna Beef Burger",
+    "variant": false,
+    "subtitle": "with seasoned fries",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Ground Beef",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brioche Buns",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Balsamic Fig Glaze",
+        "qty": "0.75 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Baby Arugula",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Blue Cheese Crumbles",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Parsley",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic and Parsley Seasoning",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Balsamic Fig Glaze"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 16,
+    "title": "Pesto Shrimp Couscous",
+    "variant": false,
+    "subtitle": "with parsley and bell peppers",
+    "time": "25-35 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Shellfish",
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Shrimp",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yellow Bell Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Pearl Couscous",
+        "qty": "0.75 cup",
+        "specialty": true
+      },
+      {
+        "name": "Basil Pesto",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Mirepoix Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Parsley",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chimichurri Seasoning",
+        "qty": "2 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Pearl Couscous",
+      "Mirepoix Broth Concentrate",
+      "Chimichurri Seasoning"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 17,
+    "title": "Puff Pastry-Wrapped Chicken",
+    "variant": false,
+    "subtitle": "with shallot cream and white cheddar green beans",
+    "time": "35-45 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Green Beans",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Puff Pastry Dough Square",
+        "qty": "2 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded White Cheddar Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "AP Flour",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Puff Pastry Dough Square",
+      "Chicken Broth Concentrate"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 18,
+    "title": "Blackened Mahi-Mahi with Garlic Cream Sauce",
+    "variant": false,
+    "subtitle": "and mashed potatoes",
+    "time": "30-40 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Fish",
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Cream Sauce Base",
+        "qty": "8 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Red Potatoes",
+        "qty": "16 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Carrot",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mahi-Mahi Fillets",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Honey",
+        "qty": "1/2 fl. oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chive Sprigs",
+        "qty": "6",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Blackening Seasoning",
+        "qty": "1 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Chive Sprigs",
+      "Blackening Seasoning"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 19,
+    "title": "Fried Sesame Shrimp",
+    "variant": false,
+    "subtitle": "with snow pea stir-fry and rice",
+    "time": "25-35 min",
+    "difficulty": "Expert",
+    "spice": "Medium",
+    "allergens": [
+      "Shellfish",
+      "Wheat",
+      "Sesame",
+      "Soy"
+    ],
+    "ingredients": [
+      {
+        "name": "Shrimp",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Long Grain White Rice",
+        "qty": "5.47 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Snow Peas",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Sesame Sauce",
+        "qty": "2 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1/2 cup",
+        "specialty": false
+      },
+      {
+        "name": "Tempura Mix",
+        "qty": "1/4 cup",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sriracha",
+        "qty": "1 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Multicolor Sesame Seeds",
+        "qty": "1 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Garlic Sesame Sauce",
+      "Tempura Mix",
+      "Multicolor Sesame Seeds"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 20,
+    "title": "Banh Mi-Style Beef Sando",
+    "variant": false,
+    "subtitle": "with spicy cucumber slaw",
+    "time": "20-30 min",
+    "difficulty": "Intermediate",
+    "spice": "Spicy",
+    "allergens": [
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Steak Strips",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "French Roll",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Slaw Mix",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Persian Cucumber",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Jalapeno Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Seasoned Rice Vinegar",
+        "qty": "1/2 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Pho Beef Broth Concentrate",
+        "qty": "1/2 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Sriracha",
+        "qty": "1 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Seasoned Rice Vinegar",
+      "Pho Beef Broth Concentrate"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 21,
+    "title": "Steakhouse Sirloin and Pepper Cream Sauce",
+    "variant": false,
+    "subtitle": "with hasselback potatoes",
+    "time": "45-55 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sirloin Steaks",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Asparagus",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Roasted Garlic & Herb Butter",
+        "qty": "0.75 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Dijon Mustard",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chive Sprigs",
+        "qty": "6",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Coarse Black Pepper",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Roasted Garlic & Herb Butter",
+      "Chive Sprigs"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 22,
+    "title": "Acapulco Steak Quesadillas",
+    "variant": false,
+    "subtitle": "with cheddar-jack and pico de gallo",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Spicy",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Steak Strips",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "qty": "6",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Cheddar-Jack Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Light Sour Cream",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Taco Seasoning",
+        "qty": "2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Beef"
+  },
+  {
+    "id": 23,
+    "title": "Chipotle BBQ Chicken Lettuce Wraps",
+    "variant": false,
+    "subtitle": "with cilantro and lime",
+    "time": "20-30 min",
+    "difficulty": "Easy",
+    "spice": "Medium",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Diced Boneless Skinless Chicken Breasts",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter Lettuce",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Corn",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "BBQ Sauce",
+        "qty": "1.5 fl. oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Pepper Jack Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chipotle Seasoning",
+        "qty": "2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Chicken"
+  },
+  {
+    "id": 24,
+    "title": "Pear and Blue Cheese Sirloin",
+    "variant": false,
+    "subtitle": "with asparagus and mashed potatoes",
+    "time": "35-45 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sirloin Steaks",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Asparagus",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Blue Cheese Crumbles",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Chive Sprigs",
+        "qty": "6",
+        "specialty": true
+      },
+      {
+        "name": "Pear",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Steak Seasoning",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Chive Sprigs"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 25,
+    "title": "Beef Gyros",
+    "variant": false,
+    "subtitle": "with tzatziki and warm pita",
+    "time": "25-35 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Ground Beef",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Pita Bread",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Persian Cucumber",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Tzatziki Sauce",
+        "qty": "2 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Red Onion",
+        "qty": "1/4",
+        "specialty": false
+      },
+      {
+        "name": "Feta Cheese Crumbles",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Gyro Seasoning",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Tzatziki Sauce",
+      "Gyro Seasoning"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 26,
+    "title": "Rancher's Favorite BBQ Pork Flautas",
+    "variant": false,
+    "subtitle": "with salsa roja",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Mild",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Pulled Pork",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "qty": "6",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Cheddar-Jack Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "BBQ Sauce",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Salsa Roja",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Light Sour Cream",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chipotle Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Salsa Roja"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 27,
+    "title": "Fried Chicken Cordon Bleu",
+    "variant": false,
+    "subtitle": "with broccoli and honey Dijon",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Broccoli Florets",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Swiss Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Ham",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1 cup",
+        "specialty": false
+      },
+      {
+        "name": "Honey Dijon Mustard",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Smoked Paprika",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Chicken"
+  },
+  {
+    "id": 28,
+    "title": "Beef & Poblano Tamale Pie",
+    "variant": false,
+    "subtitle": "with charred corn and cheddar",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Medium",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Ground Beef",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Poblano Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Corn",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yellow Cornmeal",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Cheddar-Jack Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Taco Seasoning",
+        "qty": "2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Chicken Broth Concentrate"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 29,
+    "title": "Rose and Mary's Chicken",
+    "variant": false,
+    "subtitle": "with roasted potatoes and green beans",
+    "time": "40-50 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Beans",
+        "qty": "6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Roasted Garlic & Herb Butter",
+        "qty": "0.75 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Chive Sprigs",
+        "qty": "6",
+        "specialty": true
+      },
+      {
+        "name": "Rosemary",
+        "qty": "1 sprig",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Roasted Garlic & Herb Butter",
+      "Chicken Broth Concentrate",
+      "Chive Sprigs",
+      "Rosemary"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 30,
+    "title": "Sirloin in White Wine Sage Sauce",
+    "variant": false,
+    "subtitle": "with mushrooms and mashed potatoes",
+    "time": "35-45 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sirloin Steaks",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cremini Mushrooms",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "White Cooking Wine",
+        "qty": "1 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Sage",
+        "qty": "4 leaves",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Steak Seasoning",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "White Cooking Wine",
+      "Sage"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 31,
+    "title": "Lemony Shrimp Alfredo",
+    "variant": false,
+    "subtitle": "with roasted tomatoes and garlic bread",
+    "time": "25-35 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Shellfish",
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Shrimp",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Linguine Pasta",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "French Bread",
+        "qty": "1 piece",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Italian Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 32,
+    "title": "Steak & Cheese Flautas",
+    "variant": false,
+    "subtitle": "with salsa and sour cream",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Mild",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Steak Strips",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "qty": "6",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Nacho/Taco Cheese Blend",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Salsa",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Light Sour Cream",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Onion",
+        "qty": "1/2",
+        "specialty": false
+      },
+      {
+        "name": "Taco Seasoning",
+        "qty": "2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Beef"
+  },
+  {
+    "id": 33,
+    "title": "Smoky Peppercorn Beef Cheeseburger",
+    "variant": false,
+    "subtitle": "with seasoned fries",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Ground Beef",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brioche Buns",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Cheddar Cheese Slices",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter Lettuce",
+        "qty": "2 leaves",
+        "specialty": false
+      },
+      {
+        "name": "Onion",
+        "qty": "1/4",
+        "specialty": false
+      },
+      {
+        "name": "Smoky Peppercorn Seasoning",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Smoky Peppercorn Seasoning"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 34,
+    "title": "Acapulco-Style Steak Quesadillas",
+    "variant": false,
+    "subtitle": "with guacamole and pico de gallo",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Medium",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Steak Strips",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "qty": "6",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Nacho/Taco Cheese Blend",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Guacamole",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Taco Seasoning",
+        "qty": "2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Beef"
+  },
+  {
+    "id": 35,
+    "title": "Puff the Pastry Chicken",
+    "variant": false,
+    "subtitle": "with mushroom cream and green beans",
+    "time": "35-45 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Green Beans",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cremini Mushrooms",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Puff Pastry Dough Square",
+        "qty": "2 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "AP Flour",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Thyme",
+        "qty": "2 sprigs",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Puff Pastry Dough Square",
+      "Cream Sauce Base",
+      "Thyme"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 36,
+    "title": "Steakhouse Sirloin and Truffle Mashed Potatoes",
+    "variant": false,
+    "subtitle": "with asparagus",
+    "time": "35-45 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sirloin Steaks",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Asparagus",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Truffle Butter",
+        "qty": "0.6 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chive Sprigs",
+        "qty": "6",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Steak Seasoning",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Truffle Butter",
+      "Chive Sprigs"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 37,
+    "title": "Buttermilk Chicken Schnitzel",
+    "variant": false,
+    "subtitle": "with roasted potatoes and green beans",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Beans",
+        "qty": "6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1 cup",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.44 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Smoked Paprika",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Chicken"
+  },
+  {
+    "id": 38,
+    "title": "Homestyle Country Fried Steak",
+    "variant": false,
+    "subtitle": "with gravy and mashed potatoes",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sirloin Steaks",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1 cup",
+        "specialty": false
+      },
+      {
+        "name": "Green Beans",
+        "qty": "6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "AP Flour",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Coarse Black Pepper",
+        "qty": "1 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 39,
+    "title": "Pub-Style Yellowtail Fish and Chips",
+    "variant": false,
+    "subtitle": "with malt vinegar aioli",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Fish",
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Yellowtail Fillets",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1 cup",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Malt Vinegar",
+        "qty": "1/2 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "AP Flour",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "1 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Malt Vinegar",
+      "Old Bay Seasoning"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 40,
+    "title": "Baja Mango Shrimp Tacos",
+    "variant": false,
+    "subtitle": "with jalapeño slaw",
+    "time": "20-30 min",
+    "difficulty": "Easy",
+    "spice": "Medium",
+    "allergens": [
+      "Shellfish",
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Shrimp",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "qty": "6",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Mangoes",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Slaw Mix",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Jalapeno Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Light Sour Cream",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chile and Cumin Rub",
+        "qty": "2 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Chile and Cumin Rub"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 41,
+    "title": "One-Pot Zesty Chicken Chowder",
+    "variant": false,
+    "subtitle": "with tortilla strips",
+    "time": "20-30 min",
+    "difficulty": "Intermediate",
+    "spice": "Medium",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Diced Boneless Skinless Chicken Breasts",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Poblano Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Corn",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Mozzarella",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Tortilla Strips",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Chile and Cumin Rub",
+        "qty": "1 Tbsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Chicken Broth Concentrate",
+      "Chile and Cumin Rub"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 42,
+    "title": "\"The Pastor\" Beef Cheeseburger",
+    "variant": false,
+    "subtitle": "with pineapple and chipotle",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Medium",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Ground Beef",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brioche Buns",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Pineapple Slice",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Cheddar Cheese Slices",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Red Onion",
+        "qty": "1/4",
+        "specialty": false
+      },
+      {
+        "name": "Chipotle Seasoning",
+        "qty": "2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Beef"
+  },
+  {
+    "id": 43,
+    "title": "Banh Mi-Inspired Pork Fajitas",
+    "variant": false,
+    "subtitle": "with pickled vegetables",
+    "time": "25-35 min",
+    "difficulty": "Intermediate",
+    "spice": "Spicy",
+    "allergens": [
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Pork Chops",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "qty": "6",
+        "specialty": false
+      },
+      {
+        "name": "Slaw Mix",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Persian Cucumber",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Jalapeno Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Seasoned Rice Vinegar",
+        "qty": "1/2 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Sriracha",
+        "qty": "1 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Hoisin Sauce",
+        "qty": "1 oz.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Seasoned Rice Vinegar",
+      "Hoisin Sauce"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 44,
+    "title": "Classic Beef & Broccoli",
+    "variant": false,
+    "subtitle": "with rice",
+    "time": "20-30 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Wheat",
+      "Soy"
+    ],
+    "ingredients": [
+      {
+        "name": "Steak Strips",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Broccoli Florets",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Long Grain White Rice",
+        "qty": "5.47 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Sesame Sauce",
+        "qty": "2 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sesame Seeds",
+        "qty": "1 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Garlic Sesame Sauce",
+      "Sesame Seeds"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 45,
+    "title": "Saucy Petite Scallops",
+    "variant": false,
+    "subtitle": "with pasta and roasted tomatoes",
+    "time": "25-35 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Shellfish",
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Patagonian Petite Scallops",
+        "qty": "8 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Linguine Pasta",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Baby Spinach",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Patagonian Petite Scallops",
+      "Cream Sauce Base"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 46,
+    "title": "Sailor Man's Favorite Steak",
+    "variant": false,
+    "subtitle": "with creamed spinach and garlic bread",
+    "time": "35-45 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Sirloin Steaks",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Baby Spinach",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "French Bread",
+        "qty": "1 piece",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Steak Seasoning",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 47,
+    "title": "Sweet Chili Chicken Sando",
+    "variant": false,
+    "subtitle": "with slaw and pickles",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Medium",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brioche Buns",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Slaw Mix",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Sweet Chili Sauce",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Dill Pickle Chips",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Chicken"
+  },
+  {
+    "id": 48,
+    "title": "Smoky Gouda Steak Melt",
+    "variant": false,
+    "subtitle": "with caramelized onions and fries",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Steak Strips",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Hoagie Roll",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Smoked Gouda Cheese",
+        "qty": "2 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Steak Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Shredded Smoked Gouda Cheese"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 49,
+    "title": "Dry-Fry Gochujang Chicken Thighs",
+    "variant": false,
+    "subtitle": "with rice and cucumber salad",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Spicy",
+    "allergens": [
+      "Wheat",
+      "Sesame",
+      "Soy"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Thighs",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Long Grain White Rice",
+        "qty": "5.47 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Persian Cucumber",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Gochujang Red Pepper Paste",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Seasoned Rice Vinegar",
+        "qty": "1/2 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Sesame Oil",
+        "qty": "1/2 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Sesame Seeds",
+        "qty": "1 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Sugar",
+        "qty": "1 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Gochujang Red Pepper Paste",
+      "Seasoned Rice Vinegar",
+      "Sesame Oil",
+      "Sesame Seeds"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 50,
+    "title": "Orange-Teriyaki Pork and Rice",
+    "variant": false,
+    "subtitle": "with broccoli",
+    "time": "20-30 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Wheat",
+      "Soy"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Pork Chops",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Broccoli Florets",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Long Grain White Rice",
+        "qty": "5.47 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Teriyaki Glaze",
+        "qty": "2 fl. oz.",
+        "specialty": false
+      },
+      {
+        "name": "Orange Juice Concentrate",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sesame Seeds",
+        "qty": "1 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Orange Juice Concentrate",
+      "Sesame Seeds"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 51,
+    "title": "Herby Mustard Bistro Sirloin",
+    "variant": false,
+    "subtitle": "with roasted potatoes and asparagus",
+    "time": "35-45 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sirloin Steaks",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Asparagus",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Whole Grain Mustard",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Chive Sprigs",
+        "qty": "6",
+        "specialty": true
+      },
+      {
+        "name": "Steak Seasoning",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Whole Grain Mustard",
+      "Chive Sprigs"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 52,
+    "title": "Herbed Tomato Cream Pork Chop",
+    "variant": false,
+    "subtitle": "with roasted potatoes",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Boneless Pork Chops",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Roasted Garlic & Herb Butter",
+        "qty": "0.75 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Italian Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Roasted Garlic & Herb Butter",
+      "Chicken Broth Concentrate"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 53,
+    "title": "Sheet Pan Spicy Cheddar Chicken Sammie",
+    "variant": false,
+    "subtitle": "with roasted peppers",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brioche Buns",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Green Bell Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Pepper Jack Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter Lettuce",
+        "qty": "2 leaves",
+        "specialty": false
+      },
+      {
+        "name": "Hot Sauce",
+        "qty": "1 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Smoked Paprika",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Hot Sauce"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 54,
+    "title": "One-Pot Zesty Chicken Chowder",
+    "variant": true,
+    "subtitle": "with tortilla strips",
+    "time": "20-30 min",
+    "difficulty": "Intermediate",
+    "spice": "Medium",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Diced Boneless Skinless Chicken Breasts",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Poblano Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Corn",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Mozzarella",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Tortilla Strips",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Chile and Cumin Rub",
+        "qty": "1 Tbsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Chicken Broth Concentrate",
+      "Chile and Cumin Rub"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 55,
+    "title": "Beef Tortilla Soup",
+    "variant": false,
+    "subtitle": "with cheese and sour cream",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Medium",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Ground Beef",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Corn",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "4 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Shredded Nacho/Taco Cheese Blend",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Light Sour Cream",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Tortilla Strips",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Taco Seasoning",
+        "qty": "2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Chipotle Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Chicken Broth Concentrate"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 56,
+    "title": "Rockefeller Salmon Cakes",
+    "variant": false,
+    "subtitle": "with remoulade and green beans",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Fish (Salmon)",
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Salmon",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Beans",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1/2 cup",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "1.5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Baby Spinach",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Capers",
+        "qty": "1/2 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Dijon Mustard",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "1 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Capers",
+      "Old Bay Seasoning"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 57,
+    "title": "Ooey-Gooey Creamed Spinach and Chicken Quesadillas",
+    "variant": false,
+    "subtitle": "with pico de gallo",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "qty": "6",
+        "specialty": false
+      },
+      {
+        "name": "Baby Spinach",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Mozzarella",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Chicken"
+  },
+  {
+    "id": 58,
+    "title": "Sicilian-Style Spinach Smothered Steak",
+    "variant": false,
+    "subtitle": "with roasted potatoes",
+    "time": "35-45 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sirloin Steaks",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Baby Spinach",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Sun-Dried Tomatoes",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Steak Seasoning",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Sun-Dried Tomatoes"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 59,
+    "title": "Feisty Shrimp Tostadas",
+    "variant": false,
+    "subtitle": "with mango salsa",
+    "time": "20-30 min",
+    "difficulty": "Easy",
+    "spice": "Spicy",
+    "allergens": [
+      "Shellfish",
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Shrimp",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "qty": "4",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Mangoes",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Red Cabbage",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Light Sour Cream",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chile and Cumin Rub",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Sriracha",
+        "qty": "1 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Chile and Cumin Rub"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 60,
+    "title": "Fried Shrimp Tacos",
+    "variant": false,
+    "subtitle": "with slaw and chipotle crema",
+    "time": "25-35 min",
+    "difficulty": "Intermediate",
+    "spice": "Medium",
+    "allergens": [
+      "Shellfish",
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Shrimp",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "qty": "6",
+        "specialty": false
+      },
+      {
+        "name": "Slaw Mix",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1/2 cup",
+        "specialty": false
+      },
+      {
+        "name": "Light Sour Cream",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Chipotle Seasoning",
+        "qty": "2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Seafood"
+  },
+  {
+    "id": 61,
+    "title": "Sausage and Chickpea Campanelle",
+    "variant": false,
+    "subtitle": "with spinach and tomatoes",
+    "time": "25-35 min",
+    "difficulty": "Intermediate",
+    "spice": "Mild",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Italian Sausage",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Campanelle Pasta",
+        "qty": "6 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Baby Spinach",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Chickpeas",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Italian Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Campanelle Pasta"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 62,
+    "title": "Herbes de Provence Chicken",
+    "variant": true,
+    "subtitle": "with roasted vegetables",
+    "time": "40-50 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Carrot",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Zucchini",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Roasted Garlic & Herb Butter",
+        "qty": "0.75 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Chive Sprigs",
+        "qty": "6",
+        "specialty": true
+      },
+      {
+        "name": "Herbes de Provence",
+        "qty": "1 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Roasted Garlic & Herb Butter",
+      "Chicken Broth Concentrate",
+      "Chive Sprigs",
+      "Herbes de Provence"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 63,
+    "title": "Beefy Bacon Butter Bomb Burger",
+    "variant": false,
+    "subtitle": "with seasoned fries",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Ground Beef",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brioche Buns",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Bacon",
+        "qty": "2 strips",
+        "specialty": false
+      },
+      {
+        "name": "Cheddar Cheese Slices",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Compound Butter",
+        "qty": "0.6 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter Lettuce",
+        "qty": "2 leaves",
+        "specialty": false
+      },
+      {
+        "name": "Onion",
+        "qty": "1/4",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Compound Butter"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 64,
+    "title": "BBQ-Ranch Steak Flatbread",
+    "variant": false,
+    "subtitle": "with caramelized onions and cheddar",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Steak Strips",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Flatbread",
+        "qty": "2",
+        "specialty": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Cheddar-Jack Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "BBQ Sauce",
+        "qty": "1.5 fl. oz.",
+        "specialty": false
+      },
+      {
+        "name": "Ranch Dressing",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Flatbread"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 65,
+    "title": "Tangy BBQ Pork Flautas",
+    "variant": false,
+    "subtitle": "with salsa and sour cream",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Mild",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Pulled Pork",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "qty": "6",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Cheddar-Jack Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "BBQ Sauce",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Light Sour Cream",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chipotle Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Pork"
+  },
+  {
+    "id": 66,
+    "title": "\"Kuddly Krab\" Chicken Sa-lad",
+    "variant": false,
+    "subtitle": "with old bay and crackers",
+    "time": "15-20 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Diced Boneless Skinless Chicken Breasts",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Celery",
+        "qty": "2 stalks",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Crackers",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Dill",
+        "qty": "1/4 oz.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Crackers",
+      "Old Bay Seasoning",
+      "Dill"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 67,
+    "title": "Hot Honey Crispy Chicken",
+    "variant": false,
+    "subtitle": "with roasted broccoli and rice",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Broccoli Florets",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Long Grain White Rice",
+        "qty": "5.47 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1 cup",
+        "specialty": false
+      },
+      {
+        "name": "Hot Honey",
+        "qty": "1.5 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Smoked Paprika",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Hot Honey"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 68,
+    "title": "Sweet Chili Shrimp",
+    "variant": false,
+    "subtitle": "with rice and snap peas",
+    "time": "20-30 min",
+    "difficulty": "Easy",
+    "spice": "Medium",
+    "allergens": [
+      "Shellfish",
+      "Wheat",
+      "Soy"
+    ],
+    "ingredients": [
+      {
+        "name": "Shrimp",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Long Grain White Rice",
+        "qty": "5.47 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Sugar Snap Peas",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Sweet Chili Sauce",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sesame Seeds",
+        "qty": "1 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Soy Sauce",
+        "qty": "1 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Sesame Seeds"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 69,
+    "title": "Pineapple Under the Sea Burger",
+    "variant": false,
+    "subtitle": "with teriyaki and slaw",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat",
+      "Soy"
+    ],
+    "ingredients": [
+      {
+        "name": "Ground Beef",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brioche Buns",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Pineapple Slice",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Slaw Mix",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Teriyaki Glaze",
+        "qty": "1.5 fl. oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Beef"
+  },
+  {
+    "id": 70,
+    "title": "One-Pot Zesty Chicken Chowder",
+    "variant": true,
+    "subtitle": "with tortilla strips",
+    "time": "25-35 min",
+    "difficulty": "Intermediate",
+    "spice": "Medium",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Diced Boneless Skinless Chicken Breasts",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Poblano Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Corn",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Mozzarella",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Tortilla Strips",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Chile and Cumin Rub",
+        "qty": "1 Tbsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Chicken Broth Concentrate",
+      "Chile and Cumin Rub"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 71,
+    "title": "The \"Krusty Krab Pizza\" Flatbread",
+    "variant": false,
+    "subtitle": "with pepperoni and mozzarella",
+    "time": "20-30 min",
+    "difficulty": "Easy",
+    "spice": "Mild",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Flatbread",
+        "qty": "2",
+        "specialty": true
+      },
+      {
+        "name": "Pepperoni",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Mozzarella",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Pizza Sauce",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Bell Pepper",
+        "qty": "1/2",
+        "specialty": false
+      },
+      {
+        "name": "Red Onion",
+        "qty": "1/4",
+        "specialty": false
+      },
+      {
+        "name": "Italian Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Flatbread"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 72,
+    "title": "Brown Butter-Thyme Chicken",
+    "variant": false,
+    "subtitle": "with roasted potatoes and green beans",
+    "time": "35-45 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Beans",
+        "qty": "6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Chive Sprigs",
+        "qty": "6",
+        "specialty": true
+      },
+      {
+        "name": "Thyme",
+        "qty": "2 sprigs",
+        "specialty": true
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Chive Sprigs",
+      "Thyme"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 73,
+    "title": "Crispy Pepper Shrimp",
+    "variant": false,
+    "subtitle": "with rice and snap peas",
+    "time": "20-30 min",
+    "difficulty": "Easy",
+    "spice": "Spicy",
+    "allergens": [
+      "Shellfish",
+      "Wheat",
+      "Sesame",
+      "Soy"
+    ],
+    "ingredients": [
+      {
+        "name": "Shrimp",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Long Grain White Rice",
+        "qty": "5.47 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Sugar Snap Peas",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Sesame Sauce",
+        "qty": "2 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1/2 cup",
+        "specialty": false
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Sesame Seeds",
+        "qty": "1 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Garlic Sesame Sauce",
+      "Sesame Seeds"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 74,
+    "title": "Herbes de Provence Chicken",
+    "variant": true,
+    "subtitle": "with mashed potatoes and green beans",
+    "time": "35-45 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Beans",
+        "qty": "6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Roasted Garlic & Herb Butter",
+        "qty": "0.75 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Chive Sprigs",
+        "qty": "6",
+        "specialty": true
+      },
+      {
+        "name": "Herbes de Provence",
+        "qty": "1 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Roasted Garlic & Herb Butter",
+      "Chive Sprigs",
+      "Herbes de Provence"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 75,
+    "title": "Pineapple Under the Sea Burger",
+    "variant": true,
+    "subtitle": "with teriyaki and slaw",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat",
+      "Soy"
+    ],
+    "ingredients": [
+      {
+        "name": "Ground Beef",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brioche Buns",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Pineapple Slice",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Slaw Mix",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Teriyaki Glaze",
+        "qty": "1.5 fl. oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Beef"
+  },
+  {
+    "id": 76,
+    "title": "Mongolian-Style Beef Meatballs",
+    "variant": false,
+    "subtitle": "with rice and broccoli",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Mild",
+    "allergens": [
+      "Wheat",
+      "Soy"
+    ],
+    "ingredients": [
+      {
+        "name": "Ground Beef",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Broccoli Florets",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Long Grain White Rice",
+        "qty": "5.47 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Sesame Sauce",
+        "qty": "2 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Ginger",
+        "qty": "1 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Sesame Seeds",
+        "qty": "1 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Garlic Sesame Sauce",
+      "Ginger",
+      "Sesame Seeds"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 77,
+    "title": "Jerk-Style Chicken and Rice Bowl",
+    "variant": false,
+    "subtitle": "with mango and black beans",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Spicy",
+    "allergens": [],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Thighs",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Long Grain White Rice",
+        "qty": "5.47 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Black Beans",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Mangoes",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Jerk Seasoning",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Jerk Seasoning"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 78,
+    "title": "Ultimate Fish Sandwich",
+    "variant": false,
+    "subtitle": "with slaw and tartar sauce",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Fish",
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Yellowtail Fillets",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brioche Buns",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Slaw Mix",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1 cup",
+        "specialty": false
+      },
+      {
+        "name": "Tartar Sauce",
+        "qty": "1.5 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.44 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Old Bay Seasoning",
+        "qty": "1 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Tartar Sauce",
+      "Old Bay Seasoning"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 79,
+    "title": "Buttermilk Chicken Schnitzel",
+    "variant": true,
+    "subtitle": "with roasted potatoes and green beans",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Beans",
+        "qty": "6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1 cup",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.44 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Smoked Paprika",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Chicken"
+  },
+  {
+    "id": 80,
+    "title": "Sassy Shrimp Tacos",
+    "variant": false,
+    "subtitle": "with mango slaw and chipotle crema",
+    "time": "20-30 min",
+    "difficulty": "Easy",
+    "spice": "Medium",
+    "allergens": [
+      "Shellfish",
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Shrimp",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "qty": "6",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Mangoes",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Slaw Mix",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Light Sour Cream",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chipotle Seasoning",
+        "qty": "2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Seafood"
+  },
+  {
+    "id": 81,
+    "title": "Onion, Fig, and Swiss Steak Sandwich",
+    "variant": false,
+    "subtitle": "with seasoned fries",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sirloin Steaks",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Hoagie Roll",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Swiss Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Fig Jam",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Baby Arugula",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Steak Seasoning",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Fig Jam"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 82,
+    "title": "Shrimp Bruschetta Risotto",
+    "variant": false,
+    "subtitle": "with tomatoes and basil",
+    "time": "35-45 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Shellfish",
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Shrimp",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Arborio Rice",
+        "qty": "3.6 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Baby Spinach",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Tuscan Herb Butter",
+        "qty": "0.8 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "4 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Basil",
+        "qty": "1/4 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Arborio Rice",
+      "Tuscan Herb Butter",
+      "Chicken Broth Concentrate",
+      "Basil"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 83,
+    "title": "Classic Chicken Parmesan",
+    "variant": false,
+    "subtitle": "with marinara and spaghetti",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Spaghetti",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Marinara Sauce",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Mozzarella",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1 cup",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Italian Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Chicken"
+  },
+  {
+    "id": 84,
+    "title": "Cheese-Stuffed Hasselback Chicken",
+    "variant": false,
+    "subtitle": "with roasted broccoli and potatoes",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Broccoli Florets",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Cheddar Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon Garlic Butter",
+        "qty": "0.8 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Smoked Paprika",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Lemon Garlic Butter"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 85,
+    "title": "Fiesta Pork Chili",
+    "variant": false,
+    "subtitle": "with cheese and sour cream",
+    "time": "30-40 min",
+    "difficulty": "Easy",
+    "spice": "Medium",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Ground Pork",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Corn",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Shredded Nacho/Taco Cheese Blend",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Light Sour Cream",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Taco Seasoning",
+        "qty": "2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Chile and Cumin Rub",
+        "qty": "1 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Chicken Broth Concentrate",
+      "Chile and Cumin Rub"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 86,
+    "title": "Buttermilk Chicken Schnitzel",
+    "variant": true,
+    "subtitle": "with roasted potatoes and green beans",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Beans",
+        "qty": "6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1 cup",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.44 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Smoked Paprika",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Chicken"
+  },
+  {
+    "id": 87,
+    "title": "Pine Nut Butter Chicken Breast",
+    "variant": false,
+    "subtitle": "with roasted asparagus and potatoes",
+    "time": "35-45 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Tree Nuts",
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Asparagus",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Pine Nuts",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Chive Sprigs",
+        "qty": "6",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Pine Nuts",
+      "Chive Sprigs"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 88,
+    "title": "Hummus Crusted Chicken",
+    "variant": false,
+    "subtitle": "with roasted vegetables and couscous",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Zucchini",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Pearl Couscous",
+        "qty": "0.75 cup",
+        "specialty": true
+      },
+      {
+        "name": "Hummus",
+        "qty": "2 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mirepoix Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Za'atar Seasoning",
+        "qty": "1 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Pearl Couscous",
+      "Hummus",
+      "Mirepoix Broth Concentrate",
+      "Za'atar Seasoning"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 89,
+    "title": "Pesto Sausage Flatbread",
+    "variant": false,
+    "subtitle": "with roasted peppers and mozzarella",
+    "time": "20-30 min",
+    "difficulty": "Easy",
+    "spice": "Mild",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Italian Sausage",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Flatbread",
+        "qty": "2",
+        "specialty": true
+      },
+      {
+        "name": "Green Bell Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Mozzarella",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Basil Pesto",
+        "qty": "1.5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Red Onion",
+        "qty": "1/4",
+        "specialty": false
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Flatbread"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 90,
+    "title": "Fried Chicken and Cordon Bleu Sauce",
+    "variant": false,
+    "subtitle": "with broccoli and mashed potatoes",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Broccoli Florets",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1 cup",
+        "specialty": false
+      },
+      {
+        "name": "Ham",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Swiss Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Smoked Paprika",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 91,
+    "title": "Crunchy Pesto Mozzarella Chicken",
+    "variant": false,
+    "subtitle": "with roasted tomatoes and pasta",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Penne Pasta",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Basil Pesto",
+        "qty": "1.5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Mozzarella",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1/2 cup",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Italian Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Chicken"
+  },
+  {
+    "id": 92,
+    "title": "One-Pan Turkey Smash Tacos",
+    "variant": false,
+    "subtitle": "with cheese and pico de gallo",
+    "time": "20-30 min",
+    "difficulty": "Easy",
+    "spice": "Medium",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Ground Turkey",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "qty": "6",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Nacho/Taco Cheese Blend",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Light Sour Cream",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Taco Seasoning",
+        "qty": "2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Turkey"
+  },
+  {
+    "id": 93,
+    "title": "Lemon Parsley Yellowtail",
+    "variant": false,
+    "subtitle": "with roasted potatoes and green beans",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Fish",
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Yellowtail Fillets",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Beans",
+        "qty": "6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon Garlic Butter",
+        "qty": "0.8 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Parsley",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Lemon Garlic Butter"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 94,
+    "title": "Blue Cheese and Smoked Almond Pork Chop",
+    "variant": false,
+    "subtitle": "with glazed carrots",
+    "time": "40-50 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Tree Nuts (Almonds)",
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Pork Chops",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Carrot",
+        "qty": "16 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Honey",
+        "qty": "1 fl. oz.",
+        "specialty": false
+      },
+      {
+        "name": "Blue Cheese Crumbles",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Smoked Almonds",
+        "qty": "1/2 oz.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Smoked Almonds"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 95,
+    "title": "Italian-Style Sausage Zuppa Toscana",
+    "variant": false,
+    "subtitle": "with potatoes and kale",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Mild",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Italian Sausage",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Kale",
+        "qty": "3 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "4 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Italian Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Kale",
+      "Cream Sauce Base",
+      "Chicken Broth Concentrate"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 96,
+    "title": "Fried Chicken and Cordon Bleu Sauce",
+    "variant": true,
+    "subtitle": "with broccoli and mashed potatoes",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Broccoli Florets",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1 cup",
+        "specialty": false
+      },
+      {
+        "name": "Ham",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Swiss Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Smoked Paprika",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 97,
+    "title": "One-Pan Lemon Chicken and Couscous",
+    "variant": false,
+    "subtitle": "with roasted vegetables",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Zucchini",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Pearl Couscous",
+        "qty": "0.75 cup",
+        "specialty": true
+      },
+      {
+        "name": "Lemon Garlic Butter",
+        "qty": "0.8 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Parsley",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Pearl Couscous",
+      "Lemon Garlic Butter",
+      "Chicken Broth Concentrate"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 98,
+    "title": "Broccoli Cheddar-Stuffed Chicken",
+    "variant": false,
+    "subtitle": "with roasted potatoes",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Broccoli Florets",
+        "qty": "6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Cheddar Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon Garlic Butter",
+        "qty": "0.8 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Smoked Paprika",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Lemon Garlic Butter"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 99,
+    "title": "Smoky Peppercorn Beef Cheddar Burger",
+    "variant": false,
+    "subtitle": "with seasoned fries",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Ground Beef",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brioche Buns",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Cheddar Cheese Slices",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter Lettuce",
+        "qty": "2 leaves",
+        "specialty": false
+      },
+      {
+        "name": "Onion",
+        "qty": "1/4",
+        "specialty": false
+      },
+      {
+        "name": "Smoky Peppercorn Seasoning",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Smoky Peppercorn Seasoning"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 100,
+    "title": "Shrimp Scampi",
+    "variant": false,
+    "subtitle": "with linguine and garlic bread",
+    "time": "20-30 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Shellfish",
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Shrimp",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Linguine Pasta",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "French Bread",
+        "qty": "1 piece",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "4",
+        "specialty": false
+      },
+      {
+        "name": "Parsley",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "White Cooking Wine",
+        "qty": "1 fl. oz.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "White Cooking Wine"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 101,
+    "title": "Pork Enchilada Tostadas",
+    "variant": false,
+    "subtitle": "with cheese and salsa verde",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Medium",
+    "allergens": [
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Pulled Pork",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Small Flour Tortillas",
+        "qty": "4",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Nacho/Taco Cheese Blend",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Salsa Verde",
+        "qty": "1.5 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Light Sour Cream",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cilantro",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chipotle Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Salsa Verde"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 102,
+    "title": "Hasselback Feta Chicken Bake",
+    "variant": false,
+    "subtitle": "with roasted tomatoes and zucchini",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Zucchini",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Crumbled Feta Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Tuscan Herb Butter",
+        "qty": "0.8 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Italian Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Tuscan Herb Butter"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 103,
+    "title": "Herbes de Provence Chicken",
+    "variant": true,
+    "subtitle": "with roasted potatoes and asparagus",
+    "time": "40-50 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Asparagus",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Roasted Garlic & Herb Butter",
+        "qty": "0.75 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Chive Sprigs",
+        "qty": "6",
+        "specialty": true
+      },
+      {
+        "name": "Herbes de Provence",
+        "qty": "1 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Roasted Garlic & Herb Butter",
+      "Chive Sprigs",
+      "Herbes de Provence"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 104,
+    "title": "Buffalo-Style Chicken Burrito Bowl",
+    "variant": false,
+    "subtitle": "with rice and blue cheese",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Diced Boneless Skinless Chicken Breasts",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Long Grain White Rice",
+        "qty": "5.47 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Corn",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Buffalo Sauce",
+        "qty": "2 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Blue Cheese Crumbles",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Cheddar Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Celery",
+        "qty": "1 stalk",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Buffalo Sauce"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 105,
+    "title": "Basil-Parmesan Crusted Salmon",
+    "variant": false,
+    "subtitle": "with roasted asparagus and potatoes",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Fish (Salmon)",
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Salmon",
+        "qty": "9 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Asparagus",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Basil Pesto",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1/2 cup",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Seafood"
+  },
+  {
+    "id": 106,
+    "title": "Tonkatsu Pork Chop",
+    "variant": false,
+    "subtitle": "with rice and edamame",
+    "time": "25-35 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Wheat",
+      "Soy"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Pork Chops",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Long Grain White Rice",
+        "qty": "5.47 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Edamame",
+        "qty": "4 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1 cup",
+        "specialty": false
+      },
+      {
+        "name": "Tonkatsu Sauce",
+        "qty": "2 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sesame Seeds",
+        "qty": "1 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Edamame",
+      "Tonkatsu Sauce",
+      "Sesame Seeds"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 107,
+    "title": "Italian-Style Sausage Zuppa Toscana",
+    "variant": true,
+    "subtitle": "with potatoes and kale",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Mild",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Italian Sausage",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Kale",
+        "qty": "3 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "4 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Italian Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Kale",
+      "Cream Sauce Base",
+      "Chicken Broth Concentrate"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 108,
+    "title": "Haystack Beef Burger with Dip'n Sauce",
+    "variant": false,
+    "subtitle": "with seasoned fries",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Ground Beef",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brioche Buns",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Crispy Fried Onions",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Cheddar Cheese Slices",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter Lettuce",
+        "qty": "2 leaves",
+        "specialty": false
+      },
+      {
+        "name": "Smoky Dipping Sauce",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Crispy Fried Onions",
+      "Smoky Dipping Sauce"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 109,
+    "title": "Grown-Up Chicken Nuggets and Spaghetti Alfredo",
+    "variant": false,
+    "subtitle": "with broccoli",
+    "time": "30-40 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Spaghetti",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Broccoli Florets",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1 cup",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Italian Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 110,
+    "title": "Buttermilk Chicken Schnitzel",
+    "variant": true,
+    "subtitle": "with roasted potatoes and green beans",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Beans",
+        "qty": "6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "qty": "1 cup",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.44 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Smoked Paprika",
+        "qty": "1/4 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [],
+    "category": "Chicken"
+  },
+  {
+    "id": 111,
+    "title": "Smoky Peppercorn Beef Cheddar Burger",
+    "variant": true,
+    "subtitle": "with seasoned fries",
+    "time": "25-35 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Ground Beef",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brioche Buns",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Cheddar Cheese Slices",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter Lettuce",
+        "qty": "2 leaves",
+        "specialty": false
+      },
+      {
+        "name": "Onion",
+        "qty": "1/4",
+        "specialty": false
+      },
+      {
+        "name": "Smoky Peppercorn Seasoning",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Smoky Peppercorn Seasoning"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 112,
+    "title": "Caramelized Onion and Apple Pork Chop",
+    "variant": false,
+    "subtitle": "with roasted potatoes and green beans",
+    "time": "35-45 min",
+    "difficulty": "Expert",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Pork Chops",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Beans",
+        "qty": "6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Apple",
+        "qty": "1",
+        "specialty": true
+      },
+      {
+        "name": "Butter",
+        "qty": "0.6 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Shallot",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Whole Grain Mustard",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Brown Sugar",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Thyme",
+        "qty": "2 sprigs",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Apple",
+      "Chicken Broth Concentrate",
+      "Whole Grain Mustard",
+      "Thyme"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 113,
+    "title": "One-Pot Zesty Chicken Chowder",
+    "variant": true,
+    "subtitle": "with tortilla strips",
+    "time": "20-30 min",
+    "difficulty": "Intermediate",
+    "spice": "Medium",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Diced Boneless Skinless Chicken Breasts",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Poblano Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Frozen Corn",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Mozzarella",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Tortilla Strips",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Chile and Cumin Rub",
+        "qty": "1 Tbsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Chicken Broth Concentrate",
+      "Chile and Cumin Rub"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 114,
+    "title": "Candied Bacon and Smoked Gouda Beef Burger",
+    "variant": false,
+    "subtitle": "with seasoned fries",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk",
+      "Eggs",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Ground Beef",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Brioche Buns",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Bacon",
+        "qty": "2 strips",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Smoked Gouda Cheese",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Brown Sugar",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": "0.88 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Butter Lettuce",
+        "qty": "2 leaves",
+        "specialty": false
+      },
+      {
+        "name": "Onion",
+        "qty": "1/4",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Shredded Smoked Gouda Cheese"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 115,
+    "title": "Orange-Sesame Pork Rice Bowl",
+    "variant": false,
+    "subtitle": "with broccoli",
+    "time": "20-30 min",
+    "difficulty": "Easy",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Wheat",
+      "Sesame",
+      "Soy"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Pork Chops",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Broccoli Florets",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Long Grain White Rice",
+        "qty": "5.47 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Sesame Sauce",
+        "qty": "2 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Orange Juice Concentrate",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Sesame Seeds",
+        "qty": "1 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Garlic Sesame Sauce",
+      "Orange Juice Concentrate",
+      "Sesame Seeds"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 116,
+    "title": "Greek-Style Spinach and Feta Chicken",
+    "variant": false,
+    "subtitle": "with roasted potatoes and tomatoes",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Skinless Chicken Breasts",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Baby Spinach",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Crumbled Feta Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Italian Seasoning",
+        "qty": "1 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      },
+      {
+        "name": "Za'atar Seasoning",
+        "qty": "1 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Za'atar Seasoning"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 117,
+    "title": "Salmon with Lemon Piccata Butter",
+    "variant": false,
+    "subtitle": "with roasted asparagus and potatoes",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Fish (Salmon)",
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Salmon",
+        "qty": "9 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Yukon Potatoes",
+        "qty": "8 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Asparagus",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon Garlic Butter",
+        "qty": "0.8 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Capers",
+        "qty": "1/2 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Parsley",
+        "qty": "1/4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Lemon Garlic Butter",
+      "Capers"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 118,
+    "title": "Corn and Steak Strip Risotto",
+    "variant": false,
+    "subtitle": "with tomatoes and Parmesan",
+    "time": "35-45 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Steak Strips",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Roma Tomato",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Arborio Rice",
+        "qty": "3.6 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Corn Kernels",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Grated Parmesan Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Light Sour Cream",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Natural Beef Flavor Demi-Glace Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Pot Roast Seasoning",
+        "qty": "1.5 tsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Arborio Rice",
+      "Natural Beef Flavor Demi-Glace Concentrate",
+      "Pot Roast Seasoning"
+    ],
+    "category": "Beef"
+  },
+  {
+    "id": 119,
+    "title": "Blue Cheese and Smoked Almond Pork Chop",
+    "variant": true,
+    "subtitle": "with glazed carrots",
+    "time": "40-50 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Tree Nuts (Almonds)",
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Boneless Pork Chops",
+        "qty": "12 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Carrot",
+        "qty": "16 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Honey",
+        "qty": "1 fl. oz.",
+        "specialty": false
+      },
+      {
+        "name": "Blue Cheese Crumbles",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Smoked Almonds",
+        "qty": "1/2 oz.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Smoked Almonds"
+    ],
+    "category": "Pork"
+  },
+  {
+    "id": 120,
+    "title": "One-Pot Zesty Chicken Chowder",
+    "variant": true,
+    "subtitle": "with tortilla strips",
+    "time": "25-35 min",
+    "difficulty": "Intermediate",
+    "spice": "Medium",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Diced Boneless Skinless Chicken Breasts",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Onion",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Poblano Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Corn Kernels",
+        "qty": "3 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lime",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Mozzarella",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Tortilla Strips",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chicken Broth Concentrate",
+        "qty": "2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Chile and Cumin Rub",
+        "qty": "1 Tbsp.",
+        "specialty": true
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Chicken Broth Concentrate",
+      "Chile and Cumin Rub"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 121,
+    "title": "Creamy Chicken and Mushrooms",
+    "variant": false,
+    "subtitle": "with roasted potatoes",
+    "time": "30-40 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Russet Potatoes",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Diced Boneless Skinless Chicken Breasts",
+        "qty": "10 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Button Mushrooms",
+        "qty": "4 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Roasted Garlic & Herb Butter",
+        "qty": "0.75 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Green Onions",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "1/2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Rotisserie Chicken Seasoning",
+        "qty": "1/2 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Cream Sauce Base",
+      "Roasted Garlic & Herb Butter",
+      "Rotisserie Chicken Seasoning"
+    ],
+    "category": "Chicken"
+  },
+  {
+    "id": 122,
+    "title": "Sheet Pan Sicilian Buttered Trout",
+    "variant": false,
+    "subtitle": "with potatoes and bell pepper",
+    "time": "20-30 min",
+    "difficulty": "Easy",
+    "spice": "Medium",
+    "allergens": [
+      "Fish (Trout)",
+      "Milk"
+    ],
+    "ingredients": [
+      {
+        "name": "Yukon Potatoes",
+        "qty": "16 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Steelhead Trout Filets",
+        "qty": "10 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Green Bell Pepper",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Shredded Parmesan Cheese",
+        "qty": "2 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Sicilian Sauce",
+        "qty": "1 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Lemon Garlic Butter",
+        "qty": "0.8 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Pepper",
+        "qty": "2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Steelhead Trout Filets",
+      "Sicilian Sauce",
+      "Lemon Garlic Butter"
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 123,
+    "title": "Lemon-Garlic Petite Scallops",
+    "variant": false,
+    "subtitle": "with zucchini and fettuccine",
+    "time": "25-35 min",
+    "difficulty": "Intermediate",
+    "spice": "Not Spicy",
+    "allergens": [
+      "Shellfish",
+      "Milk",
+      "Wheat"
+    ],
+    "ingredients": [
+      {
+        "name": "Zucchini",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Patagonian Petite Scallops",
+        "qty": "8 oz.",
+        "specialty": true
+      },
+      {
+        "name": "Cream Sauce Base",
+        "qty": "4 fl. oz.",
+        "specialty": true
+      },
+      {
+        "name": "Fettuccine Pasta",
+        "qty": "5 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Lemon",
+        "qty": "1",
+        "specialty": false
+      },
+      {
+        "name": "Grated Parmesan Cheese",
+        "qty": "1 oz.",
+        "specialty": false
+      },
+      {
+        "name": "Chive Sprigs",
+        "qty": "6",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Cloves",
+        "qty": "2",
+        "specialty": false
+      },
+      {
+        "name": "Blackening Seasoning",
+        "qty": "1 tsp.",
+        "specialty": true
+      },
+      {
+        "name": "Garlic Salt",
+        "qty": "1/2 tsp.",
+        "specialty": false
+      }
+    ],
+    "specialty": [
+      "Patagonian Petite Scallops",
+      "Cream Sauce Base",
+      "Chive Sprigs",
+      "Blackening Seasoning"
+    ],
+    "category": "Seafood"
+  }
+]
