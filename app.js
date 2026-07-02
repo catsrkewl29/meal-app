@@ -33,6 +33,12 @@ const boughtKey = () => `mealapp_bought`;
 // ── Boot ──
 (async function init() {
   RECIPES = await fetch("recipes.json").then(r => r.json());
+  // Cooking steps live in a separate file so the recipe parser can regenerate
+  // recipes.json without wiping them. Attach by id.
+  try {
+    const steps = await fetch("instructions.json").then(r => r.json());
+    RECIPES.forEach(r => { r.instructions = steps[r.id] || steps[String(r.id)] || []; });
+  } catch (e) { RECIPES.forEach(r => { r.instructions = []; }); }
   if (!me) { renderChooser(); return; }
   await loadState();
   if (LIVE) subscribe();
@@ -220,6 +226,11 @@ function openRecipe(id) {
     </div>
     <div class="detail-body">
       ${recipeCardHTML(r)}
+      ${r.instructions && r.instructions.length ? `
+      <div class="steps">
+        <h3>Instructions</h3>
+        <ol>${r.instructions.map(s => `<li>${s}</li>`).join("")}</ol>
+      </div>` : ""}
       <button class="bigbtn ${isLocked?'alt':''}" style="margin-top:16px" id="detailLock">
         ${isLocked ? "Remove from this week" : "Lock in for the week"}
       </button>
